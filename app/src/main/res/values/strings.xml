@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Assignment_3_2</string>
+    <string name="balanceTitle">Enter Card Balance</string>
+    <string name="interestRateTitle">Enter Yearly Interest Rate (%)</string>
+    <string name="minimumPayment">Enter Minimum Payment (&#8377;)</string>
+    <string name="cardBalance">Final Card Balance (&#8377;)</string>
+    <string name="monthsRemaining">Months Remaining</string>
+    <string name="interestPaid">Interest paid will be (&#8377;)</string>
+    <string name="button.compute">Compute</string>
+    <string name="button.clear">Clear</string>
+    <color name="layout.background.color">#000000</color>
+</resources>
